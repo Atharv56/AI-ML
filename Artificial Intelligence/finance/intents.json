@@ -1,0 +1,67 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+     "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+     "context_set": ""
+    },
+    {"tag": "goodbye",
+     "patterns": ["cya", "See you later", "Goodbye","bye", "I am Leaving", "Have a Good day"],
+     "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+     "context_set": ""
+    },
+    {"tag": "plot_chart",
+     "patterns": ["I want to plot a chart", "Plot a chart for me", "Can you plot a chart for me", "Please plot a Chart for me", "Plot a chart"],
+     "responses": ["Plotting chart"],
+     "context_set": ""
+    },
+    {"tag": "name",
+     "patterns": ["what is your name", "what should I call you", "whats your name?", "What are you"],
+     "responses": ["You can call me Thalla. I am a financial advisor", "I'm Atharv!", "I'm Atharv aka Thalla."],
+     "context_set": ""
+    },
+    {"tag": "add_portfolio",
+     "patterns": ["Add a Stock to my portfolio", "Add a stock", "Can you add a stock for me", "Add a stock for me",
+    "I want to add a new stock", "I want to add to my portfolio", "I have a new stock", "I bought a new stock", 
+    "I bought a stock"
+    
+    ],
+     "responses": ["Adding Stock: "],
+     "context_set": ""
+    },
+    {"tag": "remove_portfolio",
+     "patterns": ["Remove a stock from my portfolio", "Delete my stock", "Delete a stock from my portfolio", "Remove a stock from my portfolio"
+    ,"I sold a stock", "I want to remove something from my portfolio", "Remove a stock"],
+     "responses": ["Removing Stock: "],
+     "context_set": ""
+    },
+    {
+        "tag": "show_portfolio",
+        "patterns": ["Show me my investments", "show my portfolio", "wheres the money"],
+        "responses": ["Showing portfolio: "],
+        "context_set":""
+    
+    },
+    {
+        "tag": "stock_price",
+        "patterns": ["nonsense", "what is the stock value", "whats its worth", "How much for the stock"],
+        "responses": ["I want to know the price of a stock", "Show me the price of a stock"],
+        "context_set":""
+    
+    },
+    {
+        "tag": "portfolio_worth",
+        "patterns": ["How much is my portfolio worth?", "What is the value of my portfolio", "How much money does my portfolio have?"],
+        "responses": ["Portfolio worth: "],
+        "context_set":""
+    
+    },
+    {
+        "tag": "portfolio_gains",
+        "patterns": ["How is my portfolio performing", "How are my gains?", "Am I rich?"],
+        "responses": ["Showing gains: "],
+        "context_set":""
+    
+    }   
+
+]
+}
