@@ -1,0 +1,118 @@
+{
+    "intents": [
+        {
+            "tag": "Greetings",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        },
+        {
+            "tag": "",
+            "patterns": [],
+            "responses": [],
+            "context_set": ""
+        }
+    ]
+}
