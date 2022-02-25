@@ -2,20 +2,20 @@
     "intents": [
         {
             "tag": "Greetings",
-            "patterns": [],
-            "responses": [],
+            "patterns": ["Hello", "hi"],
+            "responses": ["Hello you are looking sensational", "Hello, you are looking spectacular"],
             "context_set": ""
         },
         {
-            "tag": "",
-            "patterns": [],
-            "responses": [],
+            "tag": "Bar",
+            "patterns": ["we met in a Bar", "we met in a Club", "club", "bar"],
+            "responses": ["Can I buy you a drink", "You were looking beautiful, I couldn't resist so can I buy you a drink"],
             "context_set": ""
         },
         {
-            "tag": "",
-            "patterns": [],
-            "responses": [],
+            "tag": "Dating website",
+            "patterns": ["On a website", "On a site", "on a dating app"],
+            "responses": ["Hello can we meet somewhere", "Lets meet"],
             "context_set": ""
         },
         {
