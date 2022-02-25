@@ -12,7 +12,7 @@ import json
 
 
 
-with open("D:\Code\Python ML\Artificial Intelligence\chatbot\intents.json") as file:
+with open("D:\Code\Python ML\AI-ML\Artificial Intelligence\chatbot\intents.json") as file:
     data = json.load(file)
 
 
