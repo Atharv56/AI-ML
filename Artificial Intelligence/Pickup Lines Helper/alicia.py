@@ -64,7 +64,7 @@ net = tflearn.fully_connected(net, len(output[0]), activation='softmax')
 net = tflearn.regression(net)
 model = tflearn.DNN(net)
 model.fit(training, output, n_epoch = 500, batch_size = 8, show_metric = True)
-model.save('Pickup Lines/model.tflearn')
+model.save('Pickup Lines_unwanted/model.tflearn')
 
 def bag_of_words(s, words):
     bag = [0 for _ in range(len(words))]
