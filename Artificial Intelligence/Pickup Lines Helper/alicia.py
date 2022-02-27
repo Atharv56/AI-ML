@@ -79,6 +79,7 @@ def bag_of_words(s, words):
         return numpy.array(bag)
 
 def chat():
+    print("You like this woman so be confident. I am here to help you communicate")
     print("Where did you meet this beautiful woman")
     while True:
         inp = input("Location: ")
