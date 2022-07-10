@@ -95,6 +95,4 @@ def chat():
                 responses = tg['responses']
         print(random.choice(responses))
 
-
-
 chat()
