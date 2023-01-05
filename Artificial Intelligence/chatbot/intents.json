@@ -21,7 +21,7 @@
         },
         {"tag": "about",
          "patterns": ["Tell me something about you", "Who are you", "What should we know about you", "Why you"],
-         "responses": ["I am Atharv Salian, becoming a programmer and love football", "Atharv Salian becoming an engineer and in love with mathematics and coding, being single 4ever"],
+         "responses": ["I am Atharv Salian, becoming a programmer and footballer", "Atharv Salian becoming an engineer and in love with mathematics and coding"],
          "context_set": ""
         },
         {"tag": "hours",
